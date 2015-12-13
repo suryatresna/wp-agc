@@ -15,3 +15,5 @@
 
 <!-- This file should primarily consist of HTML with a little bit of PHP. -->
 <h2>Automated Generate Content</h2>
+
+<p>This plugin functionality is for generated contentfrom website what your want to.</p>
